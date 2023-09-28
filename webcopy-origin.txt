@@ -1,0 +1,508 @@
+Uri: https://cdnjs.cloudflare.com/ajax/libs/waypoints/2.0.3/waypoints.min.js
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\ajax\libs\waypoints\2.0.3\waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css?family=Poppins:200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&display=swap
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLBT5Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\s\poppins\v20\pxiByp8kv8JHgFVrLBT5Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\s\poppins\v20\pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\s\poppins\v20\pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\s\poppins\v20\pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\s\poppins\v20\pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\s\poppins\v20\pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLm111VF9eL.ttf
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\s\poppins\v20\pxiDyp8kv8JHgFVrJJLm111VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLm21lVF9eL.ttf
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\s\poppins\v20\pxiDyp8kv8JHgFVrJJLm21lVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLm81xVF9eL.ttf
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\s\poppins\v20\pxiDyp8kv8JHgFVrJJLm81xVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmg1hVF9eL.ttf
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\s\poppins\v20\pxiDyp8kv8JHgFVrJJLmg1hVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmr19VF9eL.ttf
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\s\poppins\v20\pxiDyp8kv8JHgFVrJJLmr19VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmv1pVF9eL.ttf
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\s\poppins\v20\pxiDyp8kv8JHgFVrJJLmv1pVF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiDyp8kv8JHgFVrJJLmy15VF9eL.ttf
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\s\poppins\v20\pxiDyp8kv8JHgFVrJJLmy15VF9eL.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJfedw.ttf
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\s\poppins\v20\pxiEyp8kv8JHgFVrJJfedw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiGyp8kv8JHgFVrJJLucHtF.ttf
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\s\poppins\v20\pxiGyp8kv8JHgFVrJJLucHtF.ttf
+Content Type: font/ttf
+
+Uri: https://static.cloudflareinsights.com/beacon.min.js/v8b253dfea2ab4077af8c6f58422dfbfd1689876627854
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\beacon.min.js\v8b253dfea2ab4077af8c6f58422dfbfd1689876627854
+Content Type: text/javascript
+
+Uri: https://wpthemesgrid.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://wpthemesgrid.com/themes/mediplus/404.html
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\themes\mediplus\404.html
+Content Type: text/html
+
+Uri: https://wpthemesgrid.com/themes/mediplus/about.html
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\themes\mediplus\about.html
+Content Type: text/html
+
+Uri: https://wpthemesgrid.com/themes/mediplus/appointment.html
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\themes\mediplus\appointment.html
+Content Type: text/html
+
+Uri: https://wpthemesgrid.com/themes/mediplus/blog-grid.html
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\themes\mediplus\blog-grid.html
+Content Type: text/html
+
+Uri: https://wpthemesgrid.com/themes/mediplus/blog-single.html
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\themes\mediplus\blog-single.html
+Content Type: text/html
+
+Uri: https://wpthemesgrid.com/themes/mediplus/contact.html
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\themes\mediplus\contact.html
+Content Type: text/html
+
+Uri: https://wpthemesgrid.com/themes/mediplus/css/animate.min.css
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\themes\mediplus\css\animate.min.css
+Content Type: text/css
+
+Uri: https://wpthemesgrid.com/themes/mediplus/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\themes\mediplus\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://wpthemesgrid.com/themes/mediplus/css/color/color1.css
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\themes\mediplus\css\color\color1.css
+Content Type: text/css
+
+Uri: https://wpthemesgrid.com/themes/mediplus/css/datepicker.css
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\themes\mediplus\css\datepicker.css
+Content Type: text/css
+
+Uri: https://wpthemesgrid.com/themes/mediplus/css/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\themes\mediplus\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://wpthemesgrid.com/themes/mediplus/css/icofont.css
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\themes\mediplus\css\icofont.css
+Content Type: text/css
+
+Uri: https://wpthemesgrid.com/themes/mediplus/css/magnific-popup.css
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\themes\mediplus\css\magnific-popup.css
+Content Type: text/css
+
+Uri: https://wpthemesgrid.com/themes/mediplus/css/nice-select.css
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\themes\mediplus\css\nice-select.css
+Content Type: text/css
+
+Uri: https://wpthemesgrid.com/themes/mediplus/css/normalize.css
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\themes\mediplus\css\normalize.css
+Content Type: text/css
+
+Uri: https://wpthemesgrid.com/themes/mediplus/css/owl-carousel.css
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\themes\mediplus\css\owl-carousel.css
+Content Type: text/css
+
+Uri: https://wpthemesgrid.com/themes/mediplus/css/responsive.css
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\themes\mediplus\css\responsive.css
+Content Type: text/css
+
+Uri: https://wpthemesgrid.com/themes/mediplus/css/slicknav.min.css
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\themes\mediplus\css\slicknav.min.css
+Content Type: text/css
+
+Uri: https://wpthemesgrid.com/themes/mediplus/doctor-details.html
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\themes\mediplus\doctor-details.html
+Content Type: text/html
+
+Uri: https://wpthemesgrid.com/themes/mediplus/doctors.html
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\themes\mediplus\doctors.html
+Content Type: text/html
+
+Uri: https://wpthemesgrid.com/themes/mediplus/faq.html
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\themes\mediplus\faq.html
+Content Type: text/html
+
+Uri: https://wpthemesgrid.com/themes/mediplus/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\themes\mediplus\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://wpthemesgrid.com/themes/mediplus/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\themes\mediplus\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://wpthemesgrid.com/themes/mediplus/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\themes\mediplus\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://wpthemesgrid.com/themes/mediplus/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\themes\mediplus\fonts\fontawesome-webfont.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://wpthemesgrid.com/themes/mediplus/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\themes\mediplus\fonts\fontawesome-webfont.woff2
+Content Type: application/font-woff2
+
+Uri: https://wpthemesgrid.com/themes/mediplus/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\themes\mediplus\fonts\fontawesome-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://wpthemesgrid.com/themes/mediplus/fonts/icofont.woff
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\themes\mediplus\fonts\icofont.woff
+Content Type: application/font-woff
+
+Uri: https://wpthemesgrid.com/themes/mediplus/fonts/icofont.woff2
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\themes\mediplus\fonts\icofont.woff2
+Content Type: application/font-woff2
+
+Uri: https://wpthemesgrid.com/themes/mediplus/img/about-img.jpg
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\themes\mediplus\img\about-img.jpg
+Content Type: image/jpeg
+
+Uri: https://wpthemesgrid.com/themes/mediplus/img/author1.jpg
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\themes\mediplus\img\author1.jpg
+Content Type: image/jpeg
+
+Uri: https://wpthemesgrid.com/themes/mediplus/img/author2.jpg
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\themes\mediplus\img\author2.jpg
+Content Type: image/jpeg
+
+Uri: https://wpthemesgrid.com/themes/mediplus/img/author3.jpg
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\themes\mediplus\img\author3.jpg
+Content Type: image/jpeg
+
+Uri: https://wpthemesgrid.com/themes/mediplus/img/blockqoute-bg.jpg
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\themes\mediplus\img\blockqoute-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://wpthemesgrid.com/themes/mediplus/img/blog-sidebar1.jpg
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\themes\mediplus\img\blog-sidebar1.jpg
+Content Type: image/jpeg
+
+Uri: https://wpthemesgrid.com/themes/mediplus/img/blog-sidebar2.jpg
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\themes\mediplus\img\blog-sidebar2.jpg
+Content Type: image/jpeg
+
+Uri: https://wpthemesgrid.com/themes/mediplus/img/blog-sidebar3.jpg
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\themes\mediplus\img\blog-sidebar3.jpg
+Content Type: image/jpeg
+
+Uri: https://wpthemesgrid.com/themes/mediplus/img/blog1.jpg
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\themes\mediplus\img\blog1.jpg
+Content Type: image/jpeg
+
+Uri: https://wpthemesgrid.com/themes/mediplus/img/blog2.jpg
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\themes\mediplus\img\blog2.jpg
+Content Type: image/jpeg
+
+Uri: https://wpthemesgrid.com/themes/mediplus/img/blog3.jpg
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\themes\mediplus\img\blog3.jpg
+Content Type: image/jpeg
+
+Uri: https://wpthemesgrid.com/themes/mediplus/img/bread-bg.jpg
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\themes\mediplus\img\bread-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://wpthemesgrid.com/themes/mediplus/img/call-bg.jpg
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\themes\mediplus\img\call-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://wpthemesgrid.com/themes/mediplus/img/client-bg.jpg
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\themes\mediplus\img\client-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://wpthemesgrid.com/themes/mediplus/img/client1.png
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\themes\mediplus\img\client1.png
+Content Type: image/png
+
+Uri: https://wpthemesgrid.com/themes/mediplus/img/client2.png
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\themes\mediplus\img\client2.png
+Content Type: image/png
+
+Uri: https://wpthemesgrid.com/themes/mediplus/img/client3.png
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\themes\mediplus\img\client3.png
+Content Type: image/png
+
+Uri: https://wpthemesgrid.com/themes/mediplus/img/client4.png
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\themes\mediplus\img\client4.png
+Content Type: image/png
+
+Uri: https://wpthemesgrid.com/themes/mediplus/img/client5.png
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\themes\mediplus\img\client5.png
+Content Type: image/png
+
+Uri: https://wpthemesgrid.com/themes/mediplus/img/contact-img.png
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\themes\mediplus\img\contact-img.png
+Content Type: image/png
+
+Uri: https://wpthemesgrid.com/themes/mediplus/img/department.jpg
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\themes\mediplus\img\department.jpg
+Content Type: image/jpeg
+
+Uri: https://wpthemesgrid.com/themes/mediplus/img/doctor-details.jpg
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\themes\mediplus\img\doctor-details.jpg
+Content Type: image/jpeg
+
+Uri: https://wpthemesgrid.com/themes/mediplus/img/favicon.png
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\themes\mediplus\img\favicon.png
+Content Type: image/png
+
+Uri: https://wpthemesgrid.com/themes/mediplus/img/fun-bg.jpg
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\themes\mediplus\img\fun-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://wpthemesgrid.com/themes/mediplus/img/logo.png
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\themes\mediplus\img\logo.png
+Content Type: image/png
+
+Uri: https://wpthemesgrid.com/themes/mediplus/img/mission-img.jpg
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\themes\mediplus\img\mission-img.jpg
+Content Type: image/jpeg
+
+Uri: https://wpthemesgrid.com/themes/mediplus/img/pf1.jpg
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\themes\mediplus\img\pf1.jpg
+Content Type: image/jpeg
+
+Uri: https://wpthemesgrid.com/themes/mediplus/img/pf2.jpg
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\themes\mediplus\img\pf2.jpg
+Content Type: image/jpeg
+
+Uri: https://wpthemesgrid.com/themes/mediplus/img/pf3.jpg
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\themes\mediplus\img\pf3.jpg
+Content Type: image/jpeg
+
+Uri: https://wpthemesgrid.com/themes/mediplus/img/pf4.jpg
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\themes\mediplus\img\pf4.jpg
+Content Type: image/jpeg
+
+Uri: https://wpthemesgrid.com/themes/mediplus/img/section-img.png
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\themes\mediplus\img\section-img.png
+Content Type: image/png
+
+Uri: https://wpthemesgrid.com/themes/mediplus/img/section-img2.png
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\themes\mediplus\img\section-img2.png
+Content Type: image/png
+
+Uri: https://wpthemesgrid.com/themes/mediplus/img/service-details-bg.jpg
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\themes\mediplus\img\service-details-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://wpthemesgrid.com/themes/mediplus/img/signup-bg.jpg
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\themes\mediplus\img\signup-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://wpthemesgrid.com/themes/mediplus/img/slider.jpg
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\themes\mediplus\img\slider.jpg
+Content Type: image/jpeg
+
+Uri: https://wpthemesgrid.com/themes/mediplus/img/slider2.jpg
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\themes\mediplus\img\slider2.jpg
+Content Type: image/jpeg
+
+Uri: https://wpthemesgrid.com/themes/mediplus/img/slider3.jpg
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\themes\mediplus\img\slider3.jpg
+Content Type: image/jpeg
+
+Uri: https://wpthemesgrid.com/themes/mediplus/img/team1.jpg
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\themes\mediplus\img\team1.jpg
+Content Type: image/jpeg
+
+Uri: https://wpthemesgrid.com/themes/mediplus/img/team2.jpg
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\themes\mediplus\img\team2.jpg
+Content Type: image/jpeg
+
+Uri: https://wpthemesgrid.com/themes/mediplus/img/team3.jpg
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\themes\mediplus\img\team3.jpg
+Content Type: image/jpeg
+
+Uri: https://wpthemesgrid.com/themes/mediplus/img/team4.jpg
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\themes\mediplus\img\team4.jpg
+Content Type: image/jpeg
+
+Uri: https://wpthemesgrid.com/themes/mediplus/img/testi-bg.jpg
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\themes\mediplus\img\testi-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://wpthemesgrid.com/themes/mediplus/img/testi1.png
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\themes\mediplus\img\testi1.png
+Content Type: image/png
+
+Uri: https://wpthemesgrid.com/themes/mediplus/img/testi2.png
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\themes\mediplus\img\testi2.png
+Content Type: image/png
+
+Uri: https://wpthemesgrid.com/themes/mediplus/img/testi3.png
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\themes\mediplus\img\testi3.png
+Content Type: image/png
+
+Uri: https://wpthemesgrid.com/themes/mediplus/img/video-bg.jpg
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\themes\mediplus\img\video-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://wpthemesgrid.com/themes/mediplus/img/wp-icon.png
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\themes\mediplus\img\wp-icon.png
+Content Type: image/png
+
+Uri: https://wpthemesgrid.com/themes/mediplus/index.html
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\themes\mediplus\index.html
+Content Type: text/html
+
+Uri: https://wpthemesgrid.com/themes/mediplus/index2.html
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\themes\mediplus\index2.html
+Content Type: text/html
+
+Uri: https://wpthemesgrid.com/themes/mediplus/js/bootstrap-datepicker.js
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\themes\mediplus\js\bootstrap-datepicker.js
+Content Type: application/x-javascript
+
+Uri: https://wpthemesgrid.com/themes/mediplus/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\themes\mediplus\js\bootstrap.min.js
+Content Type: application/x-javascript
+
+Uri: https://wpthemesgrid.com/themes/mediplus/js/colors.js
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\themes\mediplus\js\colors.js
+Content Type: application/x-javascript
+
+Uri: https://wpthemesgrid.com/themes/mediplus/js/easing.js
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\themes\mediplus\js\easing.js
+Content Type: application/x-javascript
+
+Uri: https://wpthemesgrid.com/themes/mediplus/js/gmaps.min.js
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\themes\mediplus\js\gmaps.min.js
+Content Type: application/x-javascript
+
+Uri: https://wpthemesgrid.com/themes/mediplus/js/jquery-migrate-3.0.0.js
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\themes\mediplus\js\jquery-migrate-3.0.0.js
+Content Type: application/x-javascript
+
+Uri: https://wpthemesgrid.com/themes/mediplus/js/jquery.counterup.min.js
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\themes\mediplus\js\jquery.counterup.min.js
+Content Type: application/x-javascript
+
+Uri: https://wpthemesgrid.com/themes/mediplus/js/jquery.magnific-popup.min.js
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\themes\mediplus\js\jquery.magnific-popup.min.js
+Content Type: application/x-javascript
+
+Uri: https://wpthemesgrid.com/themes/mediplus/js/jquery.min.js
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\themes\mediplus\js\jquery.min.js
+Content Type: application/x-javascript
+
+Uri: https://wpthemesgrid.com/themes/mediplus/js/jquery.nav.js
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\themes\mediplus\js\jquery.nav.js
+Content Type: application/x-javascript
+
+Uri: https://wpthemesgrid.com/themes/mediplus/js/jquery.scrollUp.min.js
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\themes\mediplus\js\jquery.scrollUp.min.js
+Content Type: application/x-javascript
+
+Uri: https://wpthemesgrid.com/themes/mediplus/js/main.js
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\themes\mediplus\js\main.js
+Content Type: application/x-javascript
+
+Uri: https://wpthemesgrid.com/themes/mediplus/js/map-active.js
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\themes\mediplus\js\map-active.js
+Content Type: application/x-javascript
+
+Uri: https://wpthemesgrid.com/themes/mediplus/js/niceselect.js
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\themes\mediplus\js\niceselect.js
+Content Type: application/x-javascript
+
+Uri: https://wpthemesgrid.com/themes/mediplus/js/owl-carousel.js
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\themes\mediplus\js\owl-carousel.js
+Content Type: application/x-javascript
+
+Uri: https://wpthemesgrid.com/themes/mediplus/js/popper.min.js
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\themes\mediplus\js\popper.min.js
+Content Type: application/x-javascript
+
+Uri: https://wpthemesgrid.com/themes/mediplus/js/slicknav.min.js
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\themes\mediplus\js\slicknav.min.js
+Content Type: application/x-javascript
+
+Uri: https://wpthemesgrid.com/themes/mediplus/js/steller.js
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\themes\mediplus\js\steller.js
+Content Type: application/x-javascript
+
+Uri: https://wpthemesgrid.com/themes/mediplus/js/tilt.jquery.min.js
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\themes\mediplus\js\tilt.jquery.min.js
+Content Type: application/x-javascript
+
+Uri: https://wpthemesgrid.com/themes/mediplus/js/wow.min.js
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\themes\mediplus\js\wow.min.js
+Content Type: application/x-javascript
+
+Uri: https://wpthemesgrid.com/themes/mediplus/login.html
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\themes\mediplus\login.html
+Content Type: text/html
+
+Uri: https://wpthemesgrid.com/themes/mediplus/mail-success.html
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\themes\mediplus\mail-success.html
+Content Type: text/html
+
+Uri: https://wpthemesgrid.com/themes/mediplus/portfolio-details.html
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\themes\mediplus\portfolio-details.html
+Content Type: text/html
+
+Uri: https://wpthemesgrid.com/themes/mediplus/pricing.html
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\themes\mediplus\pricing.html
+Content Type: text/html
+
+Uri: https://wpthemesgrid.com/themes/mediplus/register.html
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\themes\mediplus\register.html
+Content Type: text/html
+
+Uri: https://wpthemesgrid.com/themes/mediplus/service-details.html
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\themes\mediplus\service-details.html
+Content Type: text/html
+
+Uri: https://wpthemesgrid.com/themes/mediplus/service.html
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\themes\mediplus\service.html
+Content Type: text/html
+
+Uri: https://wpthemesgrid.com/themes/mediplus/style.css
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\themes\mediplus\style.css
+Content Type: text/css
+
+Uri: https://wpthemesgrid.com/themes/mediplus/testimonials.html
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\themes\mediplus\testimonials.html
+Content Type: text/html
+
+Uri: https://wpthemesgrid.com/themes/mediplus/time-table.html
+File Name: C:\Downloaded Web Sites\wpthemesgrid.com\themes\mediplus\time-table.html
+Content Type: text/html
+
