@@ -881,7 +881,7 @@
         <div class="row justify-content-center ml-b-30">
           <div class="col-lg-6 mrb-30">
             <div class="faq-wrapper">
-              <div class="faq-item">
+              <div class="faq-item" data-faq="1">
                 <h3 class="faq-title">
                   <span class="title"
                     >Who is a right Physiotheraphy for me? </span
@@ -906,7 +906,7 @@
                   </p>
                 </div>
               </div>
-              <div class="faq-item">
+              <div class="faq-item" data-faq="2">
                 <h3 class="faq-title">
                   <span class="title"
                     >How is sports physiotherapy different from physiotherapy? </span
@@ -933,7 +933,7 @@
                   </p>
                 </div>
               </div>
-              <div class="faq-item">
+              <div class="faq-item" data-faq="3">
                 <h3 class="faq-title">
                   <span class="title"
                     >How Physio is assigned by Physioplus? </span
@@ -961,7 +961,7 @@
           </div>
           <div class="col-lg-6 mrb-30">
             <div class="faq-wrapper">
-              <div class="faq-item">
+              <div class="faq-item" data-faq="4">
                 <h3 class="faq-title">
                   <span class="title"
                     >What procedures are used in physiotherapy? </span
@@ -981,7 +981,7 @@
                   </p>
                 </div>
               </div>
-              <div class="faq-item">
+              <div class="faq-item" data-faq="5">
                 <h3 class="faq-title">
                   <span class="title"
                     >Do I get relief from pain by performing the RICE
@@ -999,7 +999,7 @@
                   </p>
                 </div>
               </div>
-              <div class="faq-item">
+              <div class="faq-item" data-faq="6">
                 <h3 class="faq-title">
                   <span class="title">Are your physios qualified? </span
                   ><span class="right-icon"></span>
@@ -1021,7 +1021,19 @@
         </div>
       </div>
     </section>  
-
+    <script>
+      const faqItems = document.querySelectorAll(".faq-item");
+    
+      faqItems.forEach((item) => {
+        item.addEventListener("click", () => {
+          item.classList.toggle("active");
+          const rightIcon = item.querySelector(".right-icon");
+          rightIcon.classList.toggle("rotate-icon");
+        });
+      });
+     
+    </script>
+    
 
 
     <section class="appointment">

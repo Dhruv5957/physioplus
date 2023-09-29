@@ -7457,6 +7457,17 @@ a:active {
   top: 50%;
   left: 50%;
 }
+/* i wrote it */
+.faq-wrapper .faq-item.active .faq-content {
+  display: block;
+}
+.right-icon.rotate-icon {
+  transition: transform 0.3s ease;
+}
+
+.faq-item.active .right-icon.rotate-icon {
+  transform: rotate(90deg); /* Rotate the icon 90 degrees */
+}
 
 .payment-item {
   border: 1px solid rgba(222, 229, 234, 0.5);
