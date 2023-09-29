@@ -232,8 +232,8 @@ body {
   -moz-transition: all 0.4s ease;
   transition: all 0.4s ease;
 }
-.header .nav li.active a:before {
-  opacity: 1;
+/* .header .nav li.active a:before {
+  opacity: 1; 
   visibility: visible;
   width: 100%;
 }
@@ -252,7 +252,8 @@ body {
   display: inline-block;
   margin-left: 1px;
   font-size: 10px;
-}
+} */
+
 .header.style2 .header-inner {
   border-top: 1px solid #eee;
 }
