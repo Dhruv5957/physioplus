@@ -7466,7 +7466,7 @@ a:active {
 }
 
 .faq-item.active .right-icon.rotate-icon {
-  transform: rotate(90deg); /* Rotate the icon 90 degrees */
+  transform: rotate(90deg);
 }
 
 .payment-item {
