@@ -945,7 +945,7 @@
                 <script>
                   function submitForm(event) {
                     event.preventDefault();
-                    console.log("submitForm function is called"); 
+                    alert("submitForm function is called"); 
                     const email = event.target.elements.email.value;
                     
             
@@ -961,11 +961,11 @@
                       .send("service_r9p4ih4", "template_eiaov0i", templateParams)
                       .then(
                         (response) => {
-                          console.log("Email sent successfully:", response);
+                         alert("Email sent successfully:", response);
                           // You can add any additional code here, such as displaying a success message to the user.
                         },
                         (error) => {
-                          console.error("Error sending email:", error);
+                         alert("Error sending email:", error);
                           // You can handle the error and display an error message to the user if needed.
                         }
                       );
@@ -1121,8 +1121,7 @@
     </footer>
     <div id="whatsapp-button">
       <a
-        href="https://wa.me/916376653823?text=Hello%2C%0AI%20need%20assistance%20with%20PhysioPlus.%20Can%20we%20connect%20on%20chat%3F"
-      >
+        href="https://wa.me/916376653823?text=Hello%2C%0AI%20need%20assistance%20with%20PhysioPlus.%20Can%20we%20connect%20on%20chat%3F">
         <img
           src="whatsapp-removebg-preview.png"
           alt="WhatsApp Icon"
