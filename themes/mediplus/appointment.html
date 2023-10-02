@@ -307,11 +307,11 @@
           .send("service_r9p4ih4", "template_eiaov0i", templateParams)
           .then(
             (response) => {
-              console.log("Email sent successfully:", response);
+              alert("Email sent successfully:", response);
               // You can add any additional code here, such as displaying a success message to the user.
             },
             (error) => {
-              console.error("Error sending email:", error);
+              alert("Error sending email:", error);
               // You can handle the error and display an error message to the user if needed.
             }
           );
