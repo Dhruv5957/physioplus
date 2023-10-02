@@ -12,7 +12,7 @@
 
     <title>PhysioPlus- Appointment</title>
 
-    <link rel="icon" href="img/favicon.png" />
+    <link rel="icon" href="./favicon.png" />
 
     <link
       href="../../css?family=Poppins:200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&display=swap"
@@ -171,7 +171,7 @@
               <li><a href="blog-single.html">Blog Details</a></li>
             </ul> -->
                       </li>
-                      <li><a href="contact.html">Contact Us</a></li>
+                      <li><a href="contact.html">PhysioConnect</a></li>
                     </ul>
                   </nav>
                 </div>
@@ -213,7 +213,11 @@
                 <h3>Book your appointment</h3>
                 <p>We will confirm your appointment by messaging you</p>
               </div>
-              <form class="form" action="https://formbold.com/s/23Al9">
+              <form
+                class="form"
+                action="https://formbold.com/s/23Al9"
+                onsubmit="submitForm(event);"
+              >
                 <div class="row">
                   <div class="col-lg-6 col-md-6 col-12">
                     <div class="form-group">
@@ -277,6 +281,42 @@
         </div>
       </div>
     </section>
+    <script src="https://cdn.emailjs.com/dist/email.min.js"></script>
+    <script>
+      emailjs.init("yGeYNIkZZw77Tq4cy");
+    </script>
+    <script>
+      function submitForm(event) {
+        event.preventDefault();
+
+        const name = event.target.elements.name.value;
+        const email = event.target.elements.email.value;
+        const phone = event.target.elements.phone.value;
+        const date = event.target.elements.datepicker.value;
+        const message = event.target.elements.message.value;
+
+        const templateParams = {
+          from_name: name,
+          from_email: email,
+          phone: phone,
+          date: date,
+          message: message,
+        };
+
+        emailjs
+          .send("service_r9p4ih4", "template_eiaov0i", templateParams)
+          .then(
+            (response) => {
+              console.log("Email sent successfully:", response);
+              // You can add any additional code here, such as displaying a success message to the user.
+            },
+            (error) => {
+              console.error("Error sending email:", error);
+              // You can handle the error and display an error message to the user if needed.
+            }
+          );
+      }
+    </script>
 
     <footer id="footer" class="footer">
       <div class="footer-top">
@@ -377,16 +417,15 @@
             </div>
             <div class="col-lg-3 col-md-6 col-12">
               <div class="single-footer">
-                <h2>About Us</h2>
-                <p>
-                  Physioplus Healthcare Pvt. Ltd. provides a user-friendly
-                  platform with the that facilitates physiotherapy Doctors and
-                  patients to communicate effectively.
-                </p>
+                <h2>Timing</h2>
                 <ul class="time-sidual">
-                  <li class="day">
-                    Monday - Friday <span>10:00AM-6:00PM</span>
-                  </li>
+                  <li class="day">Monday<span>10:00AM-6:00PM</span></li>
+                  <li class="day">Tuesday<span>10:00AM-6:00PM</span></li>
+                  <li class="day">Wednesday<span>10:00AM-6:00PM</span></li>
+                  <li class="day">Thursday<span>10:00AM-6:00PM</span></li>
+                  <li class="day">Friday<span>10:00AM-6:00PM</span></li>
+                  <li class="day">Saturday<span>10:00AM-6:00PM</span></li>
+                  <li class="day">Sunday<span>Closed</span></li>
                 </ul>
               </div>
             </div>
@@ -397,11 +436,7 @@
                   subscribe to our newsletter to get the Promo offers and news
                   to your mail
                 </p>
-                <form
-                  action="mail/mail.php"
-                  method="get"
-                  class="newsletter-inner"
-                >
+                <form class="newsletter-inner" onsubmit="submitForm(event)">
                   <input
                     name="email"
                     placeholder="Email Address"
@@ -411,7 +446,7 @@
                     required=""
                     type="email"
                   />
-                  <button class="button">
+                  <button class="button" type="submit">
                     <i class="icofont icofont-paper-plane"></i>
                   </button>
                 </form>
@@ -421,21 +456,8 @@
         </div>
       </div>
     </footer>
-    <!-- <div class="wp-version">
-      <a
-        href="https://wpthemesgrid.com/downloads/mediplus-medical-and-doctor-wordpress-theme/"
-        target="_blank"
-        rel="nofollow"
-      >
-        <div class="image"><img src="img/wp-icon.png" /></div>
-        Looking for WP version?
-      </a>
-    </div> -->
     <div id="whatsapp-button">
-      <a
-        href="https://api.whatsapp.com/send?phone=916376653823"
-        target="_blank"
-      >
+      <a href="https://wa.me/917222855140?text=Hello%20PysioPlus%2C">
         <img src="whatsapp-removebg-preview.png" alt="WhatsApp Icon" />
       </a>
     </div>
@@ -454,6 +476,44 @@
         margin-right: -191px;
       }
     </style>
+    <script src="https://cdn.emailjs.com/dist/email.min.js"></script>
+    <script>
+      emailjs.init("yGeYNIkZZw77Tq4cy");
+    </script>
+    <script>
+      function submitForm(event) {
+        event.preventDefault();
+        console.log("submitForm function is called");
+        // const name = event.target.elements.name.value;
+        const email = event.target.elements.email.value;
+        // const phone = event.target.elements.phone.value;
+        // const date = event.target.elements.subject.value;
+        // const message = event.target.elements.message.value;
+
+        const templateParams = {
+          // from_name: name,
+          from_email: email,
+          // phone: phone,
+          // date: date,
+          // message: newsletter,
+        };
+
+        emailjs
+          .send("service_r9p4ih4", "template_lg3wkd9", templateParams)
+          .then(
+            (response) => {
+              console.log("Email sent successfully:", response);
+              // You can add any additional code here, such as displaying a success message to the user.
+            },
+            (error) => {
+              console.error("Error sending email:", error);
+              // You can handle the error and display an error message to the user if needed.
+            }
+          );
+      }
+    </script>
+    <script src="js/jquery.min.js"></script>
+    <script src="js/jquery.counterup.min.js"></script>
     <script
       data-cfasync="false"
       src="../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"
@@ -501,6 +561,9 @@
     <script src="js/bootstrap.min.js"></script>
 
     <script src="js/main.js"></script>
+    <script src="js/jquery.min.js"></script>
+    <script src="js/jquery.counterup.min.js"></script>
+
     <script
       defer=""
       src="../../beacon.min.js/v8b253dfea2ab4077af8c6f58422dfbfd1689876627854"

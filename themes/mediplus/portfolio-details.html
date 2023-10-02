@@ -10,9 +10,9 @@
       content="width=device-width, initial-scale=1, shrink-to-fit=no"
     />
 
-    <title>physioPlus</title>
+    <title>PhysioPlus-AboutUs</title>
 
-    <link rel="icon" href="img/favicon.png" />
+    <link rel="icon" href="./favicon.png" />
 
     <link
       href="../../css?family=Poppins:200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&display=swap"
@@ -116,7 +116,7 @@
                       <li>
                         <a href="blog-grid.html">Blogs </a>
                       </li>
-                      <li><a href="contact.html">Contact Us</a></li>
+                      <li><a href="contact.html">PhysioConnect</a></li>
                     </ul>
                   </nav>
                 </div>
@@ -198,61 +198,169 @@
                       Stop Smart Solution for the Game."
                     </p>
                   </div>
-                  <section class="appointment-section section-gap">
-                    <div class="container container-1500">
-                      <div
-                        class="appointment-form-two style-two"
-                        style="
-                          background: #079946;
-                          border-radius: 15px;
-                          color: white;
-                        "
-                      >
-                        <div
-                          class="appointment-image"
-                          style="background-image: url(./physi.jpeg)"
-                        ></div>
-                        <div class="form-wrap">
-                          <div class="section-heading mb-50">
-                            <h2 style="color: white">Become a Physio</h2>
-                            <p style="color: white">
-                              Introducing our revolutionary mobile app that
-                              connects athletes with physiotherapists in a
-                              quick, genuine, and efficient way. Say goodbye to
-                              long wait times and unreliable recommendations.
-                              Our app matches athletes with certified
-                              physiotherapists who specialize in sports injuries
-                              and rehabilitation.
+               
+              <section class="contact-us section">
+                <div class="container">
+                  <div class="inner">
+                    <div class="row">
+                      <div class="col-lg-6">
+                        <div class="contact-us-left">
+                          <div id="myMap"></div>
+                        </div>
+                      </div>
+                      <div class="col-lg-6">
+                        <div class="contact-us-form">
+                          <h2>Contact Us</h2>
+                          <p>
+                           Try the Connection between Athletes & Physio's
+                          </p>
+          
+                          <form class="form" method="post" action="mail/mail.php" onsubmit="submitForm(event);">
+                            <div class="row">
+                              <div class="col-lg-6">
+                                <div class="form-group">
+                                  <input
+                                    type="text"
+                                    name="name"
+                                    placeholder="Name"
+                                    required=""
+                                  />
+                                </div>
+                              </div>
+                              <div class="col-lg-6">
+                                <div class="form-group">
+                                  <input
+                                    type="email"
+                                    name="email"
+                                    placeholder="Email"
+                                    required=""
+                                  />
+                                </div>
+                              </div>
+                              <div class="col-lg-6">
+                                <div class="form-group">
+                                  <input
+                                    type="text"
+                                    name="phone"
+                                    placeholder="Phone"
+                                    required=""
+                                  />
+                                </div>
+                              </div>
+                              <div class="col-lg-6">
+                                <div class="form-group">
+                                  <input
+                                    type="text"
+                                    name="subject"
+                                    placeholder="Subject"
+                                    required=""
+                                  />
+                                </div>
+                              </div>
+                              <div class="col-lg-12">
+                                <div class="form-group">
+                                  <textarea
+                                    name="message"
+                                    placeholder="Your Message"
+                                    required=""
+                                  ></textarea>
+                                </div>
+                              </div>
+                              <div class="col-12">
+                                <div class="form-group login-btn">
+                                  <button class="btn" type="submit">Send</button>
+                                </div>
+                              </div>
+                            </div>
+                          </form>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <script src="https://cdn.emailjs.com/dist/email.min.js"></script>
+    <script>
+      emailjs.init("yGeYNIkZZw77Tq4cy");
+    </script>
+    <script>
+      function submitForm(event) {
+        event.preventDefault();
+        console.log("submitForm function is called"); 
+        const name = event.target.elements.name.value;
+        const email = event.target.elements.email.value;
+        const phone = event.target.elements.phone.value;
+        const date = event.target.elements.subject.value;
+        const message = event.target.elements.message.value;
+
+        const templateParams = {
+          from_name: name,
+          from_email: email,
+          phone: phone,
+          date: date,
+          message: message,
+        };
+
+        emailjs
+          .send("service_r9p4ih4", "template_eiaov0i", templateParams)
+          .then(
+            (response) => {
+              console.log("Email sent successfully:", response);
+              // You can add any additional code here, such as displaying a success message to the user.
+            },
+            (error) => {
+              console.error("Error sending email:", error);
+              // You can handle the error and display an error message to the user if needed.
+            }
+          );
+      }
+    </script>
+    <script src="js/jquery.min.js"></script>
+    <script src="js/jquery.counterup.min.js"></script>
+    
+
+                  <div class="contact-info">
+                    <div class="row">
+                      <div class="col-lg-4 col-12">
+                        <div class="single-info">
+                          <i class="icofont icofont-ui-call"></i>
+                          <div class="content">
+                            <h3>+91 6376-653823</h3>
+                            <p>
+                              <!-- <a
+                                href="/cdn-cgi/l/email-protection"
+                                class="__cf_email__"
+                                data-cfemail="3851565e57785b575548595641165b5755"
+                                >[email&#160;protected]</a
+                              > -->
+                              info@physioplushealthcare.com
                             </p>
-                            <br />
-                            <a
-                              class="custom-button"
-                              href="https://docs.google.com/forms/d/e/1FAIpQLSdjgO2e37wnvK7VK53m5n6sUNfpWBznhludtjUIMIgbdLFwag/viewform?usp=sf_link"
-                              style="color: black"
-                              >Register Here</a
-                            >
+                          </div>
+                        </div>
+                      </div>
+          
+                      <div class="col-lg-4 col-12">
+                        <div class="single-info">
+                          <i class="icofont-google-map"></i>
+                          <div class="content">
+                            <h3>Second floor 77, Kartarpur</h3>
+                            <p>Jaipur, Rajasthan 302015</p>
+                          </div>
+                        </div>
+                      </div>
+          
+                      <div class="col-lg-4 col-12">
+                        <div class="single-info">
+                          <i class="icofont icofont-wall-clock"></i>
+                          <div class="content">
+                            <h3>Mon - Sat: 10am - 6pm</h3>
+                            <p>Sunday Closed</p>
                           </div>
                         </div>
                       </div>
                     </div>
-                  </section>
+                  </div>
                 </div>
-              </div>
-              <style>
-                .custom-button {
-                  display: inline-block;
-                  padding: 10px 20px;
-                  background-color: rgb(255, 255, 255);
-                  color: black;
-                  border: 1px solid white;
-                  border-radius: 50px;
-                  text-decoration: none;
-                }
-
-                .custom-button:hover {
-                  background-color: #ffffff80;
-                }
-              </style>
+              </section>
+          
               <!-- <img src="img/call-bg.jpg" alt="#" /> -->
               <!-- <img src="img/call-bg.jpg" alt="#" /> -->
 
@@ -428,17 +536,17 @@
             </div>
             <div class="col-lg-3 col-md-6 col-12">
               <div class="single-footer">
-                <h2>About Us</h2>
-                <p>
-                  Physioplus Healthcare Pvt. Ltd. provides a user-friendly
-                  platform with the that facilitates physiotherapy Doctors and
-                  patients to communicate effectively.
-                </p>
+                <h2>Timing</h2>
                 <ul class="time-sidual">
-                  <li class="day">
-                    Monday - Friday <span>10:00AM-6:00PM</span>
-                  </li>
+                  <li class="day">Monday<span>10:00AM-6:00PM</span></li>
+                  <li class="day">Tuesday<span>10:00AM-6:00PM</span></li>
+                  <li class="day">Wednesday<span>10:00AM-6:00PM</span></li>
+                  <li class="day">Thursday<span>10:00AM-6:00PM</span></li>
+                  <li class="day">Friday<span>10:00AM-6:00PM</span></li>
+                  <li class="day">Saturday<span>10:00AM-6:00PM</span></li>
+                  <li class="day">Sunday<span>Closed</span></li>
                 </ul>
+                
               </div>
             </div>
             <div class="col-lg-3 col-md-6 col-12">
@@ -449,9 +557,8 @@
                   to your mail
                 </p>
                 <form
-                  action="mail/mail.php"
-                  method="get"
                   class="newsletter-inner"
+                  onsubmit="submitForm(event)"
                 >
                   <input
                     name="email"
@@ -462,7 +569,7 @@
                     required=""
                     type="email"
                   />
-                  <button class="button">
+                  <button class="button" type="submit">
                     <i class="icofont icofont-paper-plane"></i>
                   </button>
                 </form>
@@ -474,10 +581,12 @@
     </footer>
     <div id="whatsapp-button">
       <a
-        href="https://api.whatsapp.com/send?phone=916376653823"
-        target="_blank"
+        href="https://wa.me/917222855140?text=Hello%20PysioPlus%2C"
       >
-        <img src="whatsapp-removebg-preview.png" alt="WhatsApp Icon" />
+        <img
+          src="whatsapp-removebg-preview.png"
+          alt="WhatsApp Icon"
+        />
       </a>
     </div>
     <style>
@@ -494,7 +603,46 @@
         border: none;
         margin-right: -191px;
       }
+      
     </style>
+    <script src="https://cdn.emailjs.com/dist/email.min.js"></script>
+    <script>
+      emailjs.init("yGeYNIkZZw77Tq4cy");
+    </script>
+    <script>
+      function submitForm(event) {
+        event.preventDefault();
+        console.log("submitForm function is called"); 
+        // const name = event.target.elements.name.value;
+        const email = event.target.elements.email.value;
+        // const phone = event.target.elements.phone.value;
+        // const date = event.target.elements.subject.value;
+        // const message = event.target.elements.message.value;
+
+        const templateParams = {
+          // from_name: name,
+          from_email: email,
+          // phone: phone,
+          // date: date,
+          // message: newsletter,
+        };
+
+        emailjs
+          .send("service_r9p4ih4", "template_lg3wkd9", templateParams)
+          .then(
+            (response) => {
+              console.log("Email sent successfully:", response);
+              // You can add any additional code here, such as displaying a success message to the user.
+            },
+            (error) => {
+              console.error("Error sending email:", error);
+              // You can handle the error and display an error message to the user if needed.
+            }
+          );
+      }
+    </script>
+    <script src="js/jquery.min.js"></script>
+    <script src="js/jquery.counterup.min.js"></script>
     <script
       data-cfasync="false"
       src="../../cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"
