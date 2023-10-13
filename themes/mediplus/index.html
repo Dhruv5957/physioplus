@@ -335,40 +335,7 @@
                   </div>
                 
             </div>
-            <script src="https://cdn.emailjs.com/dist/email.min.js"></script>
-            <script>
-              emailjs.init("yGeYNIkZZw77Tq4cy");
-            </script>
-            <script>
-              function submitForm(event) {
-        
-                const name = event.target.elements.name.value;
-                const email = event.target.elements.email.value;
-                const phone = event.target.elements.phone.value;
-                const date = event.target.elements.datepicker.value;
-                const message = event.target.elements.message.value;
-        
-                const templateParams = {
-                  from_name: name,
-                  from_email: email,
-                  phone: phone,
-                  date: date,
-                  message: message,
-                };
-        
-                emailjs
-                  .send("service_35gpxwp", "template_lg3wkd9", templateParams)
-                  .then(
-                    (response) => {
-                      alert("Email sent successfully:", response);
-                    },
-                    (error) => {
-                      alert("Error sending email:", error);
-                      
-                    }
-                  );
-              }
-            </script>
+            
           </div>
         </div>
       </div>
@@ -1367,7 +1334,7 @@ document.querySelector(".bg-overlay").addEventListener("click", closeModel);
                 </p>
                 <form
                   class="newsletter-inner"
-                  onsubmit="submitForm(event)"
+                 
                 >
                   <input
                     name="email"
@@ -1454,6 +1421,40 @@ document.querySelector(".bg-overlay").addEventListener("click", closeModel);
           );
       }
     </script> -->
+    <script src="https://cdn.emailjs.com/dist/email.min.js"></script>
+            <script>
+              emailjs.init("yGeYNIkZZw77Tq4cy");
+            </script>
+            <script>
+              function submitForm(event) {
+        
+                const name = event.target.elements.name.value;
+                const email = event.target.elements.email.value;
+                const phone = event.target.elements.phone.value;
+                const date = event.target.elements.datepicker.value;
+                const message = event.target.elements.message.value;
+        
+                const templateParams = {
+                  from_name: name,
+                  from_email: email,
+                  phone: phone,
+                  date: date,
+                  message: message,
+                };
+        
+                emailjs
+                  .send("service_35gpxwp", "template_lg3wkd9", templateParams)
+                  .then(
+                    (response) => {
+                      alert("Email sent successfully:", response);
+                    },
+                    (error) => {
+                      alert("Error sending email:", error);
+                      
+                    }
+                  );
+              }
+            </script>
     <script src="js/jquery.min.js"></script>
     <script src="js/jquery.counterup.min.js"></script>
     <script
