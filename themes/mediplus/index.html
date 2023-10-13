@@ -238,8 +238,9 @@
                       for Patients with mobility issues & for patients looking
                       for convenience
                     </p>
-                    <a href="contact.html">Inquire Us!<i class="fa fa-long-arrow-right"></i
-                      > </a>
+                   <a href="javascript:void(0);" id="openModalButton">Inquire Us!<i class="fa fa-long-arrow-right"></i
+                      >
+                     </a>
                   </div>
                 </div>
               </div>
@@ -269,6 +270,242 @@
         </div>
       </div>
     </section>
+    <div class="custom-model-main" id="customModal">
+      <div class="custom-model-inner">
+        <div class="close-btn">×</div>
+        <div class="custom-model-wrap">
+          <div class="pop-up-content-wrap">
+            
+            <div class="container">
+              
+                  <div class="appointment-inner">
+                    <div class="title">
+                      <h3>For Home Care Services</h3>
+                      <p>Contact Us by filling the form!</p>
+                    </div>
+                    <br>
+                    <form
+                      class="form"
+                      action="https://formbold.com/s/23Al9"
+                      onsubmit="submitForm(event);"
+                    >
+                      <div class="row">
+                        <div class="col-lg-6 col-md-6 col-12">
+                          <div class="form-group">
+                            <input name="name" type="text" placeholder="Name" />
+                          </div>
+                        </div>
+                        <div class="col-lg-6 col-md-6 col-12">
+                          <div class="form-group">
+                            <input name="email" type="email" placeholder="Email" />
+                          </div>
+                        </div>
+                        <div class="col-lg-6 col-md-6 col-12">
+                          <div class="form-group">
+                            <input name="phone" type="text" placeholder="Phone" />
+                          </div>
+                        </div>
+      
+                        <div class="col-lg-6 col-md-6 col-12">
+                          <div class="form-group">
+                            <input type="text" placeholder="Date" id="datepicker" />
+                          </div>
+                        </div>
+                        <div class="col-lg-12 col-md-12 col-12">
+                          <div class="form-group">
+                            <textarea
+                              name="message"
+                              placeholder="Write Your Message Here....."
+                            ></textarea>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="row">
+                        <div class="col-12">
+                          <div class="form-group">
+                            <div class="button">
+                              <button type="submit" class="btn">
+                                Submit!😊
+                              </button>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </form>
+                  </div>
+                
+            </div>
+            <script src="https://cdn.emailjs.com/dist/email.min.js"></script>
+            <script>
+              emailjs.init("yGeYNIkZZw77Tq4cy");
+            </script>
+            <script>
+              function submitForm(event) {
+                event.preventDefault();
+        
+                const name = event.target.elements.name.value;
+                const email = event.target.elements.email.value;
+                const phone = event.target.elements.phone.value;
+                const date = event.target.elements.datepicker.value;
+                const message = event.target.elements.message.value;
+        
+                const templateParams = {
+                  from_name: name,
+                  from_email: email,
+                  phone: phone,
+                  date: date,
+                  message: message,
+                };
+        
+                emailjs
+                  .send("service_r9p4ih4", "template_eiaov0i", templateParams)
+                  .then(
+                    (response) => {
+                      alert("Email sent successfully:", response);
+                    },
+                    (error) => {
+                      alert("Error sending email:", error);
+                      
+                    }
+                  );
+              }
+            </script>
+          </div>
+        </div>
+      </div>
+      <div class="bg-overlay"></div>
+    </div>
+
+    <style>
+
+              .custom-model-main {
+text-align: center;
+overflow: hidden;
+position: fixed;
+top: 0;
+right: 0;
+bottom: 0;
+left: 0; 
+-webkit-overflow-scrolling: touch;
+outline: 0;
+opacity: 0;
+-webkit-transition: opacity 0.15s linear, z-index 0.15;
+-o-transition: opacity 0.15s linear, z-index 0.15;
+transition: opacity 0.15s linear, z-index 0.15;
+z-index: -1;
+overflow-x: hidden;
+overflow-y: auto;
+}
+
+.model-open {
+z-index: 99999;
+opacity: 1;
+overflow: hidden;
+}
+.custom-model-inner {
+-webkit-transform: translate(0, -25%);
+-ms-transform: translate(0, -25%);
+transform: translate(0, -25%);
+-webkit-transition: -webkit-transform 0.3s ease-out;
+-o-transition: -o-transform 0.3s ease-out;
+transition: -webkit-transform 0.3s ease-out;
+-o-transition: transform 0.3s ease-out;
+transition: transform 0.3s ease-out;
+transition: transform 0.3s ease-out, -webkit-transform 0.3s ease-out;
+display: inline-block;
+vertical-align: middle;
+width: 600px;
+margin: 30px auto;
+max-width: 97%;
+}
+.custom-model-wrap {
+display: block;
+width: 100%;
+position: relative;
+background-color: #fff;
+border: 1px solid #999;
+border: 1px solid rgba(0, 0, 0, 0.2);
+border-radius: 6px;
+-webkit-box-shadow: 0 3px 9px rgba(0, 0, 0, 0.5);
+box-shadow: 0 3px 9px rgba(0, 0, 0, 0.5);
+background-clip: padding-box;
+outline: 0;
+text-align: left;
+padding: 20px;
+-webkit-box-sizing: border-box;
+-moz-box-sizing: border-box;
+box-sizing: border-box;
+max-height: calc(100vh - 70px);
+overflow-y: auto;
+}
+.model-open .custom-model-inner {
+-webkit-transform: translate(0, 0);
+-ms-transform: translate(0, 0);
+transform: translate(0, 0);
+position: relative;
+z-index: 999;
+}
+.model-open .bg-overlay {
+background: rgba(0, 0, 0, 0.6);
+z-index: 99;
+}
+.bg-overlay {
+background: rgba(0, 0, 0, 0);
+height: 100vh;
+width: 100%;
+position: fixed;
+left: 0;
+top: 0;
+right: 0;
+bottom: 0;
+z-index: 0;
+-webkit-transition: background 0.15s linear;
+-o-transition: background 0.15s linear;
+transition: background 0.15s linear;
+}
+.close-btn {
+position: absolute;
+right: 0;
+top: -30px;
+cursor: pointer;
+z-index: 99;
+font-size: 30px;
+color: #fff;
+}
+
+@media screen and (min-width:800px){
+.custom-model-main:before {
+content: "";
+display: inline-block;
+height: auto;
+vertical-align: middle;
+margin-right: -0px;
+height: 100%;
+}
+}
+@media screen and (max-width:799px){
+.custom-model-inner{margin-top: 45px;}
+}
+
+            </style>
+
+
+
+<script>
+// JavaScript code for opening and closing the modal
+document.getElementById("openModalButton").addEventListener("click", function (e) {
+e.preventDefault(); // Prevent the default behavior of the anchor tag
+document.getElementById("customModal").classList.add("model-open");
+});
+
+function closeModel() {
+document.getElementById("customModal").classList.remove("model-open");
+}
+
+document.querySelector(".close-btn").addEventListener("click", closeModel);
+document.querySelector(".bg-overlay").addEventListener("click", closeModel);
+</script>   
+
 
     <section class="Feautes section">
       <div class="container">
