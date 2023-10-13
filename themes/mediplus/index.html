@@ -1212,7 +1212,6 @@ document.querySelector(".bg-overlay").addEventListener("click", closeModel);
                 <hr>
                 <form
                   class="newsletter-inner"
-                  onsubmit="submitForm(event);"
                 >
                   <input
                     name="email"
@@ -1228,38 +1227,6 @@ document.querySelector(".bg-overlay").addEventListener("click", closeModel);
                     <i class="icofont icofont-paper-plane" style="color: white;"></i>
                   </button>
                 </form>
-                <script>
-                  emailjs.init("yGeYNIkZZw77Tq4cy");
-                </script>
-                <script>
-                  function submitForm(event) {
-                    event.preventDefault();
-                    alert("submitForm function is called"); 
-                    const email = event.target.elements.email.value;
-                    
-            
-                    const templateParams = {
-                      // from_name: name,
-                      // from_email: email,
-                      // phone: phone,
-                      // date: date,
-                      message: email,
-                    };
-            
-                    emailjs
-                      .send("service_r9p4ih4", "template_eiaov0i", templateParams)
-                      .then(
-                        (response) => {
-                         alert("Email sent successfully:", response);
-                          // You can add any additional code here, such as displaying a success message to the user.
-                        },
-                        (error) => {
-                         alert("Error sending email:", error);
-                          // You can handle the error and display an error message to the user if needed.
-                        }
-                      );
-                  }
-                </script>
                 <div style="display: flex;">
                   <div style="width:17%; margin-top: 37px;">
                     <a href="#"><img src="googleplay.png" alt=""></a>
